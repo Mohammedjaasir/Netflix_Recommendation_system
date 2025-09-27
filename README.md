@@ -46,7 +46,7 @@ data/                                 # (Optional) Dataset location
 
 Clone the repository:
 
-git clone https://github.com/your-username/netflix-recommendation-system.git
+git clone https://github.com/Mohammedjaasir/Netflix_Recommendation_system.git
 cd netflix-recommendation-system
 
 
